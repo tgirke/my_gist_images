@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/tgirke/my_gist_images/master/test/egret.jpg
 
 The result looks like this:
 
-<center><img title="Nvim-R-Tmux" src="https://raw.githubusercontent.com/tgirke/my_gist_images/master/test/egret.jpg" ></center>
+<center><img title="Bird in flight" src="https://raw.githubusercontent.com/tgirke/my_gist_images/master/test/egret.jpg" ></center>
