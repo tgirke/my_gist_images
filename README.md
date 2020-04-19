@@ -1,7 +1,8 @@
-# GitHub Repos for Hosting Images of your Gist Pages
+# GitHub Repos for Hosting Images of Gist Pages
 
-Github repos hosting image files for your gist pages.
+This Github repos is used to host image files that are used/embedded in your Gist pages.
 
+## Usage
 
 To include them in html/md pages, use this URL structure:
 
